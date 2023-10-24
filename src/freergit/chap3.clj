@@ -1,4 +1,4 @@
-(ns freergit.chap1
+(ns freergit.chap3
   (:require
    [clojure.string :as s]))
 

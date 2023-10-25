@@ -1,6 +1,6 @@
 # freergit/brave-clojure
 
-FIXME: my new application.
+[Following this book](https://www.braveclojure.com/foreword/)
 
 ## Installation
 
